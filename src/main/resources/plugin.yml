@@ -1,0 +1,5 @@
+main : ${project.groupId}.helpbot.HelpBot
+name: HelpBot
+version: ${project.version}
+description: ${project.description}
+author: ${project.author}
